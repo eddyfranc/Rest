@@ -23,7 +23,7 @@ header {
 .navbar{
     display: flex;
 }
-.navbar ul li{
+.navbar li{
     list-style: none;
     text-align: center;
     display:flex;
@@ -34,6 +34,7 @@ header {
     padding: 10px;
     color: maroon;
     text-align: center;
+
 }
 .navbar ul {
     list-style: none;
